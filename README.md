@@ -1,80 +1,60 @@
-<!-- Banner -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samuel%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Samuel%20Silva&fontSize=50&fontColor=ffffff&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20Front-end&descAlignY=65&descSize=18" width="100%"/>
 
-<h1 align="center">Hi, I'm Samuel Silva 👋</h1>
+<br/>
 
-<p align="center">
-  Frontend Web Developer.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-silva-8a7469404)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dexterxis/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelsilvaa)
 
-<p align="center">
-  I am a student and beginner in the development field, highly motivated to learn, grow, and build real-world projects. I am constantly improving my skills and exploring new technologies.
-</p>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+Front-end;HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
 
-## 🧠 About Me
-
-I am a student and beginner in the development field, passionate about technology and highly motivated to learn and grow.
-
-*  Currently learning and improving my skills in web development
-*  Focused on building real-world projects
-*  Always exploring new technologies and best practices
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em desenvolvimento front-end e construindo uma base sólida para atuar como programador. Comecei pelo desenvolvimento web por gostar de criar interfaces e experiências bem pensadas, e estou avançando meus estudos em **React** enquanto me preparo para expandir também para mobile e inteligência artificial no futuro.
 
 ---
 
-## 🚀 Featured Projects
+### 🎯 Especialidades
 
-🔹 Projects coming soon. Currently working on building real-world applications to showcase here.
-
----
-
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="samuel.silvaa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://seusite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+| Área | Tecnologias |
+|---|---|
+| **Front-end** | HTML · CSS · JavaScript · React |
+| **Em estudo** | Fundamentos de Ciência da Computação · React avançado |
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Tech Stack
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelsilvaa&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvaa&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=samuelsilvaa&theme=tokyonight&hide_border=false" />
-</p>
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git)
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=samuelsilvaa&show_icons=true&theme=radical&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelsilvaa&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💻 O que importa não é saber tudo — é continuar aprendendo, construindo e evoluindo a cada projeto.
+
+</div>
